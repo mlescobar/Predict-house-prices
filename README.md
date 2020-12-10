@@ -1,3 +1,3 @@
  # Predicting houses 
  
-The following project aims to predict the price of a house in Boston based on the number of rooms it has. This project uses a simple linear regression method.
+The following projects aim to predict the price of a house in Boston based on the number of rooms it has. Every version uses a different model to predict the price.
